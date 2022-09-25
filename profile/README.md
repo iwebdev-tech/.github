@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://instagram.com/webdev_tlv"><img width="32px" alt="Instagram" title="Instagram" src="https://www.iconsdb.com/icons/preview/pink/instagram-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://facebook.com](https://www.facebook.com/people/Webdev/100086097825484/" alt="Facebook" title="Facebook"><img width="32px" src="https://www.iconsdb.com/icons/preview/pink/facebook-7-xxl.png"/></a>
+  <a href="https://www.facebook.com/people/Webdev/100086097825484/" alt="Facebook" title="Facebook"><img width="32px" src="https://www.iconsdb.com/icons/preview/pink/facebook-7-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://iwebdev.tech"><img width="32px" alt="Website Link" title="IWEBDEV" src="https://www.iconsdb.com/icons/preview/pink/home-4-xxl.png"></a>
 </p>
