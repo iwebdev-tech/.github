@@ -12,6 +12,10 @@
   <a href="https://iwebdev.tech"><img width="32px" alt="Website Link" title="IWEBDEV" src="https://www.iconsdb.com/icons/preview/pink/home-4-xxl.png"></a>
 </p>
 
-<br/>
+## 
 
-![Banner](/profile/photo.png)
+<p align="center">
+  <img src="https://github.com/iwebdev-tech/.github/blob/main/profile/photo.png?raw=true" width="85%">
+</p>
+
+<!-- ![Banner](/profile/photo.png) -->
