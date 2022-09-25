@@ -1,7 +1,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Applications%20Development;Mobile%20Applications%20Development;UI/UX%20Designing;Software%20and%20Internet%20Solutions&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-</p>
+</p> -->
 
 <!-- Social icons section -->
 <p align="center">
