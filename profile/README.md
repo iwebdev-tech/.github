@@ -15,7 +15,7 @@
 ## 
 
 <p align="center">
-  <img src="https://github.com/iwebdev-tech/.github/blob/main/profile/photo.png?raw=true" width="85%">
+  <img src="https://github.com/iwebdev-tech/.github/blob/main/profile/prof2.png?raw=true" width="85%">
 </p>
 
 <!-- ![Banner](/profile/photo.png) -->
